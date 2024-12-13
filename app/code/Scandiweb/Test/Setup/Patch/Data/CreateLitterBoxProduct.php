@@ -1,10 +1,10 @@
 <?php
-
 /**
- * @category    Scandiweb
- * @package     Scandiweb_Test
- * @author      Mohammed Adel <info@scandiweb.com>
- * @copyright   Copyright (c) 2024 Scandiweb, Ltd (https://scandiweb.com)
+ * @category Scandiweb
+ * @package Scandiweb_Test
+ * @author Mohammed Adel <info@scandiweb.com>
+ * @copyright Copyright (c) 2024 Scandiweb, Inc (https://scandiweb.com)
+ * @license http://opensource.org/licenses/OSL-3.0 The Open Software License 3.0 (OSL-3.0)
  */
 
 namespace Scandiweb\Test\Setup\Patch\Data;
